@@ -6,7 +6,7 @@ Surface texture image identification from machining surfaces using image process
 Cutting parameters, tool geometry, work-piece material, chatter, and cutting fluids all contribute to surface roughness. Of these factors, three important parameters are chosen for each machining process. Three levels of values for each parameter were taken. By varying the combination of parameters and levels, 27 configurations of sets of parameters are obtained for each process. In this experiment, six processes were studied which we will see below. Hardened Steel was used for the machining processes.
 
 ### Lapping
-| Parameters                   |         Levels        |
+| Parameters                   |       | Levels|       |
 |                              |   1   |   2   |   3   |
 | Lapping Normal Pressure (kg) |  5.0  |  10.0 |  15.0 |
 | Abrasive Size (micrometer)   |  1.0  |  3.0  |  5.0  |
